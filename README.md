@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]](https://github.com/Olayanju-1234/)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][https://github.com/Olayanju-1234/Food-API]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/joseph-olayanju-8771b810b/)
 
 
@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Olayanju-1234/Food-API">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
