@@ -69,7 +69,7 @@
 
 ### Built With
 
-* [![NodeJS][Node.js.com]][Node.js-url]
+* [![Nodejs][Node.js.com]][Node.js-url]
 * [![Express][Express.com]][Express-url]
 * [![MongoDB][MongoDB.com]][MongoDB-url]
 
