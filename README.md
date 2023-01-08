@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]](https://github.com/Olayanju-1234/Food-API)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]](https://github.com/Olayanju-1234/Food-API)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/joseph-olayanju-8771b810b/)
 
 
