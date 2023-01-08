@@ -69,10 +69,10 @@
 
 ### Built With
 
-* [![Node.js][Node.js.com]][Node.js-url]
+* [![NodeJS][Node.js.com]][Node.js-url]
 * [![Express][Express.com]][Express-url]
 * [![MongoDB][MongoDB.com]][MongoDB-url]
-* [![Mongoose][Mongoose.com]][Mongoose-url]
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
