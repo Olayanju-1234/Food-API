@@ -4,7 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/joseph-olayanju-8771b810b/]
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/joseph-olayanju-8771b810b/)
 
 
 
@@ -178,18 +178,6 @@ Joseph Olayanju - [@twitter_handle](https://twitter.com/josepholayanju) - horlar
 Project Link: [https://github.com/olayanju-1234/Food-API](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
